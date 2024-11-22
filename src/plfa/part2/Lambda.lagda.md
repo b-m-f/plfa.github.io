@@ -791,10 +791,10 @@ It can be illustrated as follows:
                P
 
 Here `L`, `M`, `N` are universally quantified while `P`
-is existentially quantified.  If each line stands for zero
+is existentially quantified.  If each of the four lines in the figure above stands for zero
 or more reduction steps, this is called confluence,
-while if the top three lines stand for a single reduction
-step and the bottom three stand for zero or more reduction
+while if the top two lines stand for a single reduction
+step and the bottom two stand for zero or more reduction
 steps it is called the diamond property. In symbols:
 
 ```agda
